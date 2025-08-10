@@ -609,3 +609,139 @@ https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
 https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:-1 tvg-name="Una Esperanza TV" tvg-logo="https://cdn.m3u.cl/logo/1638_Una_Esperanza_TV.png" group-title="CHILE",Una Esperanza TV
 https://stream.blserver.cl/cmaf/unaesperanzatv/index.m3u8
+#EXTINF:-1 tvg-name="Cali TV" tvg-logo="https://cdn.m3u.cl/logo/113_Cali_TV.png" group-title="COLOMBIA",Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 12 Valledupar" tvg-logo="https://cdn.m3u.cl/logo/114_Canal_12_Valledupar.png" group-title="COLOMBIA",Canal 12 Valledupar
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmaBpKu1K3lYAAAA/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Capital" tvg-logo="https://cdn.m3u.cl/logo/115_Canal_Capital.png" group-title="COLOMBIA",Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal CNC Medellin" tvg-logo="https://cdn.m3u.cl/logo/116_Canal_CNC_Medellin.png" group-title="COLOMBIA",Canal CNC Medellin
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8
+#EXTINF:-1 tvg-name="Canal CNC Pasto" tvg-logo="https://cdn.m3u.cl/logo/117_Canal_CNC_Pasto.png" group-title="COLOMBIA",Canal CNC Pasto
+http://pastocnc1.ddns.net/pastocnc9/cnc9/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Doce Sincelejo" tvg-logo="https://cdn.m3u.cl/logo/118_Canal_Doce_Sincelejo.png" group-title="COLOMBIA",Canal Doce Sincelejo
+http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
+#EXTINF:-1 tvg-name="Canal Institucional" tvg-logo="https://cdn.m3u.cl/logo/120_Canal_Institucional.png" group-title="COLOMBIA",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://cdn.m3u.cl/logo/119_Canal_Trece.png" group-title="COLOMBIA",Canal Trece
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal TRO" tvg-logo="https://cdn.m3u.cl/logo/121_Canal_TRO.png" group-title="COLOMBIA",Canal TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Visión Dorada" tvg-logo="https://cdn.m3u.cl/logo/122_Canal_Vision_Dorada.png" group-title="COLOMBIA",Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-name="Caracol" tvg-logo="https://cdn.m3u.cl/logo/123_Caracol.png" group-title="COLOMBIA",Caracol
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-name="Cosmovisión" tvg-logo="https://cdn.m3u.cl/logo/125_Cosmovision.png" group-title="COLOMBIA",Cosmovisión
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1 tvg-name="Canal Capital" tvg-logo="https://cdn.m3u.cl/logo/495_Canal_Capital.png" group-title="COLOMBIA",Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-name="Amordiscos TV" tvg-logo="https://cdn.m3u.cl/logo/112_Amordiscos_TV.png" group-title="COLOMBIA",Amordiscos TV
+https://amordiscosretrotv.moxapps.shop/live/cdYgaZmmh2VPhscWTxBp1kd9Egb2/index.m3u8
+#EXTINF:-1 tvg-name="Telemusica" tvg-logo="https://cdn.m3u.cl/logo/36_Telemusica.png" group-title="COLOMBIA",Telemusica
+https://telemusicahit.moxapps.shop/live/bu1rJpIiHrcRa4T1e972hnMExiw1/index.m3u8
+#EXTINF:-1 tvg-name="Tele Familia" tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png" group-title="COLOMBIA",Tele Familia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Gracia" tvg-logo="https://cdn.m3u.cl/logo/181_TV_Gracia.png" group-title="COLOMBIA",TV Gracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Pasto" tvg-logo="https://cdn.m3u.cl/logo/804_Tele_Pasto.png" group-title="COLOMBIA",Tele Pasto
+https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
+#EXTINF:-1 tvg-name="TV Peñol" tvg-logo="https://cdn.m3u.cl/logo/860_TV_Penol.png" group-title="COLOMBIA",TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 tvg-name="Oasis TV" tvg-logo="https://cdn.m3u.cl/logo/862_Oasis_TV.png" group-title="COLOMBIA",Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-name="Cristovision" tvg-logo="https://cdn.m3u.cl/logo/874_Cristovision.jpg" group-title="COLOMBIA",Cristovision
+https://liveingesta118.cdnmedia.tv/cristovisiontvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Noticiero 90 Minutos" tvg-logo="https://cdn.m3u.cl/logo/1090_Noticiero_90_Minutos.png" group-title="COLOMBIA",Noticiero 90 Minutos
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
+#EXTINF:-1 tvg-name="Veo TV" tvg-logo="https://cdn.m3u.cl/logo/1157_Veo_TV.png" group-title="COLOMBIA",Veo TV
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1 tvg-name="Memorias TV | PE" tvg-logo="https://cdn.m3u.cl/logo/471_Memorias_TV.png" group-title="COLOMBIA",Memorias TV | PE
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleamiga" tvg-logo="https://cdn.m3u.cl/logo/1614_Teleamiga.png" group-title="COLOMBIA",Teleamiga
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="" group-title="MÉXICO",Las Estrellas
+https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:-1 tvg-name="AZ UNO" tvg-logo="" group-title="MÉXICO",AZ UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-name="AZ 7" tvg-logo="" group-title="MÉXICO",AZ 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-name="MULTIMEDIOS MTY" tvg-logo="" group-title="MÉXICO",MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-name="ESTRELLA TV" tvg-logo="" group-title="MÉXICO",ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="AZTECA 7.2" tvg-logo="" group-title="MÉXICO",AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-name="ADN40" tvg-logo="" group-title="MÉXICO",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-name="CANAL 26 AGUASCALIENTES" tvg-logo="" group-title="MÉXICO",CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 tvg-name="Central FM" tvg-logo="https://cdn.m3u.cl/logo/634_Central_FM.png" group-title="MÉXICO",Central FM
+https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Enfoque de la Sierra" tvg-logo="https://cdn.m3u.cl/logo/1119_Enfoque_de_la_Sierra.png" group-title="MÉXICO",Enfoque de la Sierra
+https://90f2-201-114-105-69.ngrok.io/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-name="Impactovision" tvg-logo="https://cdn.m3u.cl/logo/635_Impactovision.webp" group-title="MÉXICO",Impactovision
+https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playlist.m3u8
+#EXTINF:-1 tvg-name="Mexiquense TV" tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png" group-title="MÉXICO",Mexiquense TV
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-name="Multimedios CDMX" tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png" group-title="MÉXICO",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-name="Multimedios Guadalajara" tvg-logo="https://cdn.m3u.cl/logo/668_Multimedios_Guadalajara.png" group-title="MÉXICO",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-name="Multimedios Laguna" tvg-logo="https://cdn.m3u.cl/logo/669_Multimedios_Laguna.png" group-title="MÉXICO",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-name="Multimedios Monterrey" tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png" group-title="MÉXICO",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-name="MVM MÉXICO Oaxaca" tvg-logo="https://cdn.m3u.cl/logo/671_MVM_MÉXICO_Oaxaca.png" group-title="MÉXICO",MVM MÉXICO Oaxaca
+https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
+#EXTINF:-1 tvg-name="Transmedia TV Morelia" tvg-logo="https://cdn.m3u.cl/logo/681_Transmedia_TV_Morelia.png" group-title="MÉXICO",Transmedia TV Morelia
+https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Lobo" tvg-logo="https://cdn.m3u.cl/logo/638_TV_Lobo.png" group-title="MÉXICO",TV Lobo
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-name="TV4 Cultura" tvg-logo="https://cdn.m3u.cl/logo/655_TV4_Cultura.png" group-title="MÉXICO",TV4 Cultura
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV4 Deportes" tvg-logo="https://cdn.m3u.cl/logo/654_TV4_Deportes.png" group-title="MÉXICO",TV4 Deportes
+https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV4 MÉXICO" tvg-logo="https://cdn.m3u.cl/logo/656_TV4_MÉXICO.png" group-title="MÉXICO",TV4 MÉXICO
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVP Culiacan" tvg-logo="https://cdn.m3u.cl/logo/651_TVP_Culiacan.png" group-title="MÉXICO",TVP Culiacan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVP Los Mochis" tvg-logo="https://cdn.m3u.cl/logo/648_TVP_Los_Mochis.png" group-title="MÉXICO",TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVP Mazatlan" tvg-logo="https://cdn.m3u.cl/logo/649_TVP_Mazatlan.png" group-title="MÉXICO",TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Promar TV" tvg-logo="https://cdn.m3u.cl/logo/146_Promar_TV.png" group-title="VENEZUELA",Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-name="Reforma TV" tvg-logo="https://cdn.m3u.cl/logo/147_Reforma_TV.png" group-title="VENEZUELA",Reforma TV
+https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="ShowVen TV" tvg-logo="https://cdn.m3u.cl/logo/18_ShowVen_TV.png" group-title="VENEZUELA",ShowVen TV
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+#EXTINF:-1 tvg-name="TVS Maracay" tvg-logo="https://cdn.m3u.cl/logo/518_TVS_Maracay.png" group-title="VENEZUELA",TVS Maracay
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-name="Cantina TV" tvg-logo="https://cdn.m3u.cl/logo/1221_Cantina_TV.png" group-title="VENEZUELA",Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 tvg-name="EXC TV" tvg-logo="https://cdn.m3u.cl/logo/1220_EXC_TV.png" group-title="VENEZUELA",EXC TV
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1 tvg-name="PLTV" tvg-logo="https://cdn.m3u.cl/logo/1222_PLTV.png" group-title="VENEZUELA",PLTV
+https://vcp.myplaytv.com/pltv/pltv/playlist.m3u8
+#EXTINF:-1 tvg-name="TRV" tvg-logo="https://cdn.m3u.cl/logo/1224_TRV.png" group-title="VENEZUELA",TRV
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV FANB" tvg-logo="https://cdn.m3u.cl/logo/1227_TV_FANB.png" group-title="VENEZUELA",TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1 tvg-name="Vale TV" tvg-logo="https://cdn.m3u.cl/logo/1226_Vale_TV.png" group-title="VENEZUELA",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-name="MDA TV" tvg-logo="https://cdn.m3u.cl/logo/1325_MDA_TV.png" group-title="VENEZUELA",MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Globovision" tvg-logo="https://cdn.m3u.cl/logo/1326_Globovision.png" group-title="VENEZUELA",Globovision
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT" tvg-logo="https://cdn.m3u.cl/logo/1327_TRT.png" group-title="VENEZUELA",TRT
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-name="Oasis TV" tvg-logo="https://cdn.m3u.cl/logo/1328_Oasis_TV.png" group-title="VENEZUELA",Oasis TV
+http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1 tvg-name="Torococo TV" tvg-logo="https://cdn.m3u.cl/logo/1400_Torococo_TV.png" group-title="VENEZUELA",Torococo TV
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1 tvg-name="Canal Diplomatico" tvg-logo="https://cdn.m3u.cl/logo/1439_Canal_Diplomatico.png" group-title="VENEZUELA",Canal Diplomatico
+https://vcp7.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
+#EXTINF:-1 tvg-name="Corazon Llanero" tvg-logo="https://cdn.m3u.cl/logo/145_Corazon_Llanero.png" group-title="VENEZUELA",Corazon Llanero
+https://vcp.myplaytv.com/corazonllanero/corazonllanero/playlist.m3u8
+#EXTINF:-1 tvg-name="Plous TV" tvg-logo="https://cdn.m3u.cl/logo/1440_Plous_TV.png" group-title="VENEZUELA",Plous TV
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
