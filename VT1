@@ -111,3 +111,5 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
 #EXTINF:-1 tvg-name="Corazon Llanero" tvg-logo="https://cdn.m3u.cl/logo/145_Corazon_Llanero.png" group-title="MUSICA",Corazon Llanero
 https://vcp.myplaytv.com/corazonllanero/corazonllanero/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IHVHNE4.png" group-title="TV PREMIUM",DreikoTV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
