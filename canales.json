@@ -6,6 +6,12 @@
     "tipo": "Tv"
   },
   {
+    "name": "TV PRUEBA",
+    "logo_url": "https://raw.githubusercontent.com/Dito84/ICONO_IPTV/main/tv.jpg",
+    "m3u_url": "https://raw.githubusercontent.com/Dito84/NDQVER/refs/heads/main/VT1",
+    "tipo": "Tv"
+  },
+  {
     "name": "PELICULAS",
     "logo_url": "https://raw.githubusercontent.com/Dito84/ICONO_IPTV/main/movie.jpg",
     "m3u_url": "https://raw.githubusercontent.com/Dito84/NDQVER/refs/heads/main/Pelis2",
