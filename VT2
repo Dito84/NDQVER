@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Bolivia Tv" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="BOLIVIA",Bolivia Tv
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 29" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="BOLIVIA",Canal 29
+https://play.agenciastreaming.com:19360/8160/8160.m3u8
+#EXTINF:-1 tvg-name="Coral Tv" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="BOLIVIA",Coral Tv
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 tvg-name="Red CCVTV" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="BOLIVIA",Red CCVTV
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-name="RTP" tvg-logo="https://i.imgur.com/Egijzx3.png" group-title="BOLIVIA",RTP
+https://rtp.noxun.net/hls/stream.m3u8
+#EXTINF:-1 tvg-name="TDT Multimedia " tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="BOLIVIA",TDT Multimedia 
+https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-name="UMSA TVU" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="BOLIVIA",UMSA TVU
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Cadena A" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="BOLIVIA",Cadena A
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
