@@ -8,7 +8,7 @@
     {
     "name": "TV Mundi",
     "logo_url": "https://raw.githubusercontent.com/Dito84/ICONO_IPTV/main/tv.jpg",
-    "m3u_url": "https://raw.githubusercontent.com/Dito84/NDQVER/refs/heads/main/TV3",
+    "m3u_url": "https://iptv-org.github.io/iptv/index.m3u",
     "tipo": "Tv"
   },
   {
